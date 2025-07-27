@@ -4,17 +4,16 @@ This repository contains the files for my Final Project in Data Science 4 (CSS18
 ## RF-DETR for Object Detection
 This project explores the RF-DETR (Refined-Feature DETR) model for object detection. It involves building and evaluating an object detection model in Google Colab using a preprocessed and augmented dataset from Roboflow, visualizing predictions, and discussing the findings.
 
-## Link to Google Colab Notebook:
-https://colab.research.google.com/drive/1wgboWolFmOxkSvQkdGITHxwJ9j5IiCY6?usp=sharing 
-
-## Link to Dataset:
-https://universe.roboflow.com/data-science-gubxu/plastic-o1ufz-zqhko 
+## Relevant Links:
+Google Colab Notebook:  https://colab.research.google.com/drive/1wgboWolFmOxkSvQkdGITHxwJ9j5IiCY6?usp=sharing 
+Roboflow Dataset:       https://universe.roboflow.com/data-science-gubxu/plastic-o1ufz-zqhko 
 
 ## Setup and Implementation
-Option 1: Clone the repository using 'git clone' command
-Option 2: Download the .ipynb notebook
-
-- Open the .ipynb notebook using Google Colab
+- Option 1: Clone the repository using 'git clone' command or
+- Option 2: Copy the .ipynb from the Google Colab notebook link or
+- Option 3: Download the .ipynb notebook
+- After download, open the .ipynb notebook using Google Colab
+- Make sure that the runtime is connected to a T4 GPU or higher
 - Run each cell accordingly
 
 ## Results
